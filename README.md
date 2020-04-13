@@ -17,8 +17,6 @@ Have wondered implementing Analytics Manager in our iOS App, noted few of links 
 
 • http://merowing.info/2016/07/logging-in-swift/
 
-• https://benoitpasquier.com/
-
 • https://www.lordcodes.com/articles/a-modular-analytics-layer-in-swift
 
 • https://benoitpasquier.com/abstract-ios-third-party-libraries/
